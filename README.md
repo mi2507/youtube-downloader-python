@@ -14,6 +14,10 @@ Este é um aplicativo simples que permite baixar vídeos do YouTube diretamente 
    ```bash
    git clone <url-do-repositorio>
 
+ ```bash
+   cd youtube-downloader-python
+
+
 
 2. acesse a pasta do projeto
   cd youtube-downloader-python
