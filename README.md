@@ -12,7 +12,7 @@ Este é um aplicativo simples que permite baixar vídeos do YouTube diretamente 
 
 Para garantir que o código esteja correto no seu arquivo `README.md` e que os usuários possam copiar e colar facilmente, o ideal é garantir que cada bloco de código esteja fechado corretamente com três crases (```) e que o texto explicativo esteja bem organizado. Aqui está a versão corrigida:
 
-```
+
 1. Clone este repositório:
    ```bash
    git clone <url-do-repositorio>
